@@ -29,7 +29,7 @@ def main():
 
                 for u2 in user_mentions:                
                     print "\t".join([
-                        user['screen"_name'],
+                        user['screen_name'],
                         u2['screen_name'],
                         "1"
                         ])
